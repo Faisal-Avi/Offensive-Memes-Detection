@@ -11,3 +11,18 @@ cultural nuances in meme-based cyberbullying but also sets a new benchmark for a
 online harassment. 
 Index Terms—Cyberbullying, Multimodal analysis, Aggressive
 Memes, BLIP, BanglaBERT
+
+The summary of the main contributions of our work is given
+below:
+• Achieved very high accuracy of 99.59% on the memes
+dataset, which is a significant improvement on prior art,
+which was 74.1% on the same dataset [13].
+• Applied CLAHE filter, which enhances the contrast of
+the image, and image augmentation, which improves the
+performance and generalization of deep learning models.
+• We have used several multimodal vision-language models combination. Among them BLIP and BanglaBERT
+combination performs best.
+• We have used 10-fold cross-validation for the best model
+to prove the robustness of our approach.
+• The output of this research is interpreted by LIME [14]
+Explainable Artificial Intelligence (XAI)
